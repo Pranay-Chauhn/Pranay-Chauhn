@@ -12,5 +12,5 @@ Hi there! I'm **Pranay Chauhan**, a passionate **Data Scientist** and **Machine 
 - **FastAPI** to enhance deployment skills  
 
 ### 🌐 Let's Connect:
-- [LinkedIn](https://www.linkedin.com/in/pranaychauhan)  
-- [Kaggle](https://www.kaggle.com/pranaychauhan)  
+- [LinkedIn](www.linkedin.com/in/pranay-chauhan-0ab85a263)  
+- [Kaggle](https://www.kaggle.com/pranaych100)  
