@@ -31,8 +31,8 @@ I’m currently pursuing my Master’s in Applied Statistics and actively workin
 
 ## GitHub Stats
 
-![Pranay's GitHub stats](https://github-readme-stats.vercel.app/api?username=PranayChauhan&show_icons=true&theme=default)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PranayChauhan&layout=compact&theme=default)
+![Pranay's GitHub stats](https://github-readme-stats.vercel.app/api?username=Pranay-Chauhn&show_icons=true&theme=default)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Pranay-Chauhn&layout=compact&theme=default)
 
 ---
 
